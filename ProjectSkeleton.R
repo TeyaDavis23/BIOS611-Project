@@ -3,7 +3,7 @@ library(readr)
 
 
 
-ForbesRichestAthletes <- read_csv("work/source_data/ForbesRichestAthletes.csv")
+ForbesRichestAthletes <- read_csv("source_data/ForbesRichestAthletes.csv")
 
 ggplot(data = ForbesRichestAthletes, aes(x = Year, y = `earnings ($ million)`)) +
   geom_point() +
