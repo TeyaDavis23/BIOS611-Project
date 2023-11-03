@@ -21,3 +21,6 @@ figures/Scatterplot1025.png: ProjectSkeleton_Figure1.R
 	
 figures/Histogram1025.png: ProjectSkeleton_Figure2.R
 	Rscript ProjectSkeleton_Figure2.R
+	
+Project_Clustering.R: source_data/ForbesRichestAthletes.csv Project_Clustering.R
+	Rscript Project_Clustering.R
