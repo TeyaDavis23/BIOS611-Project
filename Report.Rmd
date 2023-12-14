@@ -31,11 +31,7 @@ output: html_document
 * To answer the question of how the salaries of the richest paid athletes have changed over time, I chose to make a scatter plot of the athletes' earnings vs. the year. From this plot, we can see a subtle increasing trend of the salaries of the richest athletes over time. This was what I expected. As sports become increasingly popular entertainment worldwide and athletes begin to make money off the court through brand deals and other means, this trend is justifiable.
 
 ![Scatterplot 2](figures/Scatterplot1204.png)
-
-
-
-
-
+* Further investigating trends in the salaries of the highest paid athletes over time, I chose to create a scatter plot of the combined earnings for the athletes of a particular sport vs. the year. In the beginning years of the Forbes List of Richest Athletes, we see that, combined, basketball players and boxers earned the most. In the later 2000s (2005-2010), we see that, combined, golfers earned the most. More recently, we see that soccer players, combined, have been earning the most. The huge outlier that we see at 2015 is the combined salary of boxers for that year. In 2015, Floyd Mayweather earned $300 million, pulling boxing way up to the top of combined earnings for that year.
 
 ## Principal Components Analysis
 
