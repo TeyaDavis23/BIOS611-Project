@@ -35,4 +35,15 @@ output: html_document
 
 ## Principal Components Analysis
 
+* To investigate whether or not the highest paid athletes can be grouped together in any way, we will run principal components analysis.
+
+![PCA Part 1](figures/PCA1.png)
+* Once we plot the variances as a function of the number of components, we can see that most of the variance in the data is explained by the first two principal components. 
+
+![PCA Part 2](figures/PCA2.png)
+* After plotting the second principal component against the first principal component, we can see that there are not any definitive clusters among the data. 
+
+![PCA Part 3](figures/PCA3.png)
+* After coloring the data based on the sport associated with each point, we see that there are no definitive groups of sports among the data either. With this, we conclude that there are not significant clusters within the data that we analyzed. 
+
 ## Future Analysis
