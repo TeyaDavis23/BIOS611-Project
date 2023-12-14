@@ -1,0 +1,26 @@
+---
+title: "611 Project Report"
+author: "Teya Davis"
+date: "2023-12-14"
+output: html_document
+---
+
+# Analysis of Forbes' Lists of Richest Athletes from 1990 to 2020
+  
+  Forbes magazine has produced and published a list of the richest professional athletes since 1990. The list ranks the athletes, across all sports, in terms of their yearly income and provides other information about each athlete. Among this information is the athlete's respective sport, their total income, and, added more recently, a break down of the athlete's income. In the lists of recent years, the athlete's earnings on the field and off the field have also been reported.
+  
+  The income year that the Forbes list reports on lasts from June until June. This is a change from how it was compiled when the list was first produced. The reporting period was originally the calendar year. The switch was made in 2002, making it so that there is no list for the 2001 year.
+
+## Introduction
+
+  The data I have chosen gives a summary of these lists produced by Forbes. For the years between 1990 and 2020, the data includes information about the ranks of the athletes by income for the year, their rank the previous year, the names of the athletes, the athletes' income for the year, and the athletes' nationalities.
+  
+  From this data, I have several questions. A few of them are: How do professional athletes’ salaries compare to one another? What trends are there among them? Is an athlete’s home country related to how much they are paid? How has the salary of the highest paid athlete has changed over time? Which athlete has appeared the most on the list? Can the highest paid athletes in a particular sport be grouped together in terms of amount of money earned? Which sports are consistently producing the highest paid athlete each year?
+  
+  I will answer a few of these questions in the analysis that I conduct on this data and leave the rest for future investigation.
+
+## Exploratory Data Analysis
+
+## Principal Components Analysis
+
+## Future Analysis
