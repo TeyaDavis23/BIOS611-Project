@@ -47,3 +47,5 @@ output: html_document
 * After coloring the data based on the sport associated with each point, we see that there are no definitive groups of sports among the data either. With this, we conclude that there are not significant clusters within the data that we analyzed. 
 
 ## Future Analysis
+
+* In the future, analysis can be done to answer some of the questions that I posed that I did not investigate like: Is an athlete’s home country related to how much they are paid? Analysis can also be done to investigate how much of an athlete's earnings come from on the field vs. off the field. Further, the position of women on the Forbes List of Richest Athletes in their respective sports can be done in comparison with their male counterparts. As the data for this subject will grow each year, I believe that there are and will be even more interesting things to look at and investigate from it as time goes on.
