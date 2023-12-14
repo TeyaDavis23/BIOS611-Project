@@ -25,11 +25,10 @@ output: html_document
 * To answer the question of which sports are consistently producing the highest paid athlete each year, I chose to make a histogram of the sports represented by those athletes ranked number 1 each year from 1990 to 2020. From this plot, we see that golf has produced the number 1 richest athlete more than 9 times out of the 30 years represented. This was surprising to me as I was not aware of the average annual salary for a golf player. Recently, soccer players like Cristiano Ronaldo and Lionel Messi have been in the news for their high salaries. This led me to believe that soccer would produce many of the number 1 richest athletes, however, from this plot we can see that soccer only produced less than 3 of the number 1 richest athletes from 1990 to 2020.
 
 ![Histogram 2](figures/Histogram1204.png)
-
-
-
+* Following my investigation of the sports that were producing the number 1 highest paid athlete each year, I went on to look at which athletes were consistently at the top of the Forbes list each year. As we can see from this histogram, Tiger Woods made the most appearances at the top of the Forbes List for Richest Athletes between the years of 1990 and 2020. Tiger Woods topped the list for 10 consecutive years from 2002 to 2011. Following Tiger Woods is UNC's very own, Michael Jordan. Michael Jordan topped the list for 4 consecutive years from 1992 to 1995.
 
 ![Scatterplot 1](figures/Scatterplot1025.png)
+* 
 
 ![Scatterplot 2](figures/Scatterplot1204.png)
 
