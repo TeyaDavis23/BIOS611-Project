@@ -4,7 +4,7 @@ library(readr)
 Number1_RichestAthlete <- read_csv("derived_data/Number1_RichestAthlete.csv")
 Number1_Sport <- read_csv("derived_data/Number1_Sport.csv")
 
-ggplot(data = Number1_RichestAthlete, aes(x = factor(Sport4, levels = Number1_Sport$Sport4))) +
+ggplot(data = Number1_RichestAthlete, aes(x = factor(new_Sport, levels = Number1_Sport$new_Sport))) +
   geom_histogram(stat = "count") +
   xlab("Sport") +
   ylab("Count") +
