@@ -28,7 +28,7 @@ output: html_document
 * Following my investigation of the sports that were producing the number 1 highest paid athlete each year, I went on to look at which athletes were consistently at the top of the Forbes list each year. As we can see from this histogram, Tiger Woods made the most appearances at the top of the Forbes List for Richest Athletes between the years of 1990 and 2020. Tiger Woods topped the list for 10 consecutive years from 2002 to 2011. Following Tiger Woods is UNC's very own, Michael Jordan. Michael Jordan topped the list for 4 consecutive years from 1992 to 1995.
 
 ![Scatterplot 1](figures/Scatterplot1025.png)
-* 
+* To answer the question of how the salaries of the richest paid athletes have changed over time, I chose to make a scatter plot of the athletes' earnings vs. the year. From this plot, we can see a subtle increasing trend of the salaries of the richest athletes over time. This was what I expected. As sports become increasingly popular entertainment worldwide and athletes begin to make money off the court through brand deals and other means, this trend is justifiable.
 
 ![Scatterplot 2](figures/Scatterplot1204.png)
 
